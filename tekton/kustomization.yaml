@@ -3,7 +3,7 @@ resources:
  - upgrade_staging.yaml
  - delete_manifests.yaml
  - integration_tests.yaml
- - persistent_volume_claim.yaml
+# - persistent_volume_claim.yaml
  - maven_settings.yaml
  - pipeline.yaml
 
